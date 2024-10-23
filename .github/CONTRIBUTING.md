@@ -52,4 +52,4 @@ Since BlackBird Research doesn’t currently have automated testing, it’s espe
 
 ## Starting a Discussion
 
-If you’re unsure whether your issue warrants a fix or if you just want to share ideas and get feedback, feel free to [start a GitHub discussion](https://github.com/satnaing/astro-paper/discussions/new/choose). It’s a great way to engage with the community.
+If you’re unsure whether your issue warrants a fix or if you just want to share ideas and get feedback, feel free to [start a GitHub discussion](). It’s a great way to engage with the community.
