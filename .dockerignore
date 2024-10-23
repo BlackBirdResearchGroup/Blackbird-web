@@ -4,5 +4,5 @@
 # Ignore node_modules directory
 node_modules/
 
-# Ignore build output
+# Ignore build outputs
 dist/
