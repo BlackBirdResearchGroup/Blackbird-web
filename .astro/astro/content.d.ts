@@ -146,7 +146,14 @@ declare module 'astro:content' {
   slug: "welcome-to-blackbird-research-club";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
+} & { render(): Render[".md"] };
+"our-blog.md": {
+	id: "our-blog.md";
+  slug: "astro-what-powers-our-blog";
+  body: string;
+  collection: "blog";
+  data: any
 } & { render(): Render[".md"] };
 };
 
@@ -158,5 +165,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = typeof import("./../../src/content/config.js");
+	export type ContentConfig = never;
 }

@@ -2,9 +2,9 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://blackbird-web.vercel.app/", // replace this with your deployed domain
-  author: "Your Name",
-  profile: "https://your-profile-link.com/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  author: "Chibogu Chisom && Jacob Chiu",
+  profile: "https://github.com/BlackBirdResearchGroup",
+  desc: "BlackBird Research is a group of people who are intersted in security and privacy.",
   title: "BlackBird Research",
   ogImage: "BlackBird Research-og.jpg",
   lightAndDarkMode: true,

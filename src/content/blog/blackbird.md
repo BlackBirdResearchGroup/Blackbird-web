@@ -39,5 +39,7 @@ We accept contributions in various forms, whether you're a student, professional
   - If you find some interesting bit of malware on the web, and you think it would be a good idea to analyze it, you can submit it to us.
 - Reverse Engineering:
   - If you have a piece of software that you would like to reverse engineer, or want to find a group of people to help you with it, you can reach out to us, and we'll take a look!
+- Data leaks :
+  - If you come across a data leak, and you think it would be a good idea to analyze it, or inform the affected parties, you can sublit it tous, or join us and make a [blog post](./blog-post-guidelines.md) about it.
 
 > Note: We arent experts, so we may not be able to help with everything, but we will do our best to help you out.

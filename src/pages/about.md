@@ -2,7 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: "About us"
 author: Blackbird Research Club
-pubDatetime: 2023-10-05T00:00:00Z
+pubDatetime: 2024-10-05T00:00:00Z
 slug: welcome-to-blackbird-research-club
 featured: true
 draft: false
