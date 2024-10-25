@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://your-deployed-domain.com/", // replace this with your deployed domain
+  website: "https://blackbird-web.vercel.app/", // replace this with your deployed domain
   author: "Your Name",
   profile: "https://your-profile-link.com/",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
@@ -13,7 +13,7 @@ export const SITE: Site = {
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   editPost: {
-    url: "https://github.com/your-repo/astro-paper/edit/main/src/content/blog",
+    url: "https://github.com/BlackBirdResearchGroup/Blackbird-web/tree/main/src/content/blog",
     text: "Suggest Changes",
     appendFilePath: true,
   },
@@ -34,27 +34,21 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/your-repo",
+    href: "https://github.com/BlackBirdResearchGroup/Blackbird-web/",
     linkTitle: ` ${SITE.title} on Github`,
-    active: true,
-  },
-  {
-    name: "Facebook",
-    href: "https://facebook.com/your-page",
-    linkTitle: `${SITE.title} on Facebook`,
     active: true,
   },
   {
     name: "Instagram",
     href: "https://instagram.com/your-profile",
     linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    active: false,
   },
   {
     name: "LinkedIn",
     href: "https://linkedin.com/in/your-profile",
     linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
+    active: false,
   },
   {
     name: "Mail",

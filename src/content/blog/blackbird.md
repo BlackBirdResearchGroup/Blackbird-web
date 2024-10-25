@@ -13,8 +13,6 @@ tags:
 description: "Introducing the Blackbird Research Club at Carleton University, focused on advancing cybersecurity and software development through collaboration and continuous learning."
 ---
 
-# Welcome to Blackbird Research Club
-
 Welcome to the Blackbird Research Club, a new initiative at Carleton University dedicated to advancing cybersecurity and software development. Our mission is to build, learn, and improve the quality of developers and researchers within our community.
 
 ## About Us
@@ -32,3 +30,14 @@ Blackbird Research Club is a small but passionate group of students and professi
 If you're a Carleton University student interested in cybersecurity and software development, we invite you to join us. Together, we can make a difference and contribute to the ever-evolving field of technology.
 
 Stay tuned for more updates and exciting projects from the Blackbird Research Club!
+
+## Contributing: How You Can Help
+
+We accept contributions in various forms, whether you're a student, professional, or enthusiast. Here are some ways you can get involved:
+
+- Malware Analysis:
+  - If you find some interesting bit of malware on the web, and you think it would be a good idea to analyze it, you can submit it to us.
+- Reverse Engineering:
+  - If you have a piece of software that you would like to reverse engineer, or want to find a group of people to help you with it, you can reach out to us, and we'll take a look!
+
+> Note: We arent experts, so we may not be able to help with everything, but we will do our best to help you out.
